@@ -11,7 +11,7 @@ I'm a passionate full-stack developer from France 🇫🇷
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=alezco&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=city_lights" alt="alezco" /> </p>
 
-![Metrics](https://metrics.lecoq.io/username)
+![Metrics](https://metrics.lecoq.io/alezco)
 
 <p>
 <a href="https://twitter.com/alezco_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alezco_" height="20" width="20" /></a>
