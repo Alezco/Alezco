@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="25px" height="25px">
+### Hi there 👋
 
 I'm a passionate full-stack developer from France 🇫🇷
 
