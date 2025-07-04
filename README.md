@@ -8,4 +8,4 @@ I'm a passionate full-stack developer from France 🇫🇷
 - 📝 I sometimes write articles on [https://medium.com/@benjaminmorali4](https://medium.com/@benjaminmorali4)
 - 💬 Ask me about **React, Vue, Svelte, Node and TypeScript**
 
-<a href="https://www.linkedin.com/in/benjamin-morali/"><img height="20" alt="linkedin-icon" src="https://user-images.githubusercontent.com/12464404/194714767-6e74f3e4-33b7-49d7-88e5-5469f147d891.svg" /></a>
+<a href="https://www.linkedin.com/in/benjamin-morali/"><img height="15" alt="linkedin-icon" src="https://user-images.githubusercontent.com/12464404/194714767-6e74f3e4-33b7-49d7-88e5-5469f147d891.svg" /></a>
